@@ -22,7 +22,7 @@ This repository contains all the work completed during my Codegnan internship, i
 
    ```bash
    git clone <repo-url>
-```
+   ```
 2. Follow the instructions in the respective .txt files for setup (e.g., Node.js, API server, React setup).
 
 3. Open HTML files in HMS folder in your browser to view the HMS project.
