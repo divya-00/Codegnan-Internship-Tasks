@@ -1,0 +1,5 @@
+To create a node in your pc 
+download and install nodejs from official website
+And then verify it open cmd and then type the followijng commands
+node -v
+npm -v

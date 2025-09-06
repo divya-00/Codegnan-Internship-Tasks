@@ -1,0 +1,5 @@
+React creates a virtual dom.
+React is a javascript library.
+framework is a thing which only gives the accessability to do the things within a respected bound and limit.
+Whereas comming to a library it gives 3 or more options.We can install the required features and import them to use.
+Each react application has a special virtual Dom 

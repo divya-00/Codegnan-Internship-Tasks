@@ -1,0 +1,25 @@
+API
+we use api to access the server
+	eg:
+	https://www.google.com/search?q=
+ In what format we get the data from the API?
+ JSON format
+ 
+ {
+  "key":value,
+  "key":value,
+  "key":value,
+ }
+
+we use fetch method to call the api we call api and update the api which is called AJAX calls or rest calls
+
+get		retrieve
+post		create
+put		update
+delete		delete
+
+CRUD
+
+api will be as an url 
+api response is in JSON Format
+we give data to api in JSON format

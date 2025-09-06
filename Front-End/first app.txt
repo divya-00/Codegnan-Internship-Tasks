@@ -1,0 +1,17 @@
+to create a folder of your project open the command prompt in your respected folder
+Then follow the following commands
+npx create-react-app firstapp
+then if it downloads its ok else proceed with  "y".
+open the file using visual studio code.
+cd name of the file
+npm strat
+
+
+
+Commands needed to perform 
+For creating a react appliacation we use
+npx create-react-app firstapp
+npx stands for node package execute
+npm node package manager
+-To install any type of packages in react we ues it
+nvm node version manager

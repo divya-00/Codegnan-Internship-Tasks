@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Math methods in Js</title>
+</head>
+<body>
+    <script>
+        console.log(Math.random())
+        console.log(Math.floor(21.5))
+        console.log(Math.ceil(21.5))
+        var s="hjhgfgkfnklsnkhmvnfknak"
+        console.log(s.charAt(12))
+        var password=[]
+        var passwordList="abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890!@#$%&*"
+        for(var u=1;u<9;u++){
+                Ranndom=Math.floor(Math.random()*passwordList.length)
+                //console.log(Ranndom,passwordList.charAt(Ranndom))
+                password.push(passwordList.charAt(Ranndom))
+            }
+            //console.log(password)
+            var result=password.join("")
+            console.log(result)
+    </script>
+</body>
+</html>

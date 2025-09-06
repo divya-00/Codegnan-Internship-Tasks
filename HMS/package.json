@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "serve": "^14.2.0",
+    "swiper": "^9.4.1"
+  },
+  
+  "main": "index.html",
+  "name": "swiper-freemode",
+  "scripts": {
+    "build": "echo This is a static template, there is no bundler or bundling involved!",
+    "start": "serve"
+  },
+  "tags": [
+    "swiper"
+  ]
+}
